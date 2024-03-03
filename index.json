@@ -183,6 +183,7 @@
       "Neil Marek (Grower)",
       "NemesisXB",
       "QuadMcFly (Ryan Harrell)",
+      "RemoFPV",
       "Sartor",
       "Sjoer van der Ploeg",
       "Stingers Swarm",
@@ -441,6 +442,8 @@
       "rc_link",
       "rc_smoothing",
       "Redpine",
+      "remo",
+      "RemoFPV",
       "reset",
       "reset statistics",
       "rpm",
@@ -1560,6 +1563,25 @@
         "expert"
       ],
       "author": "Neil Marek (Grower)",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/RemoFPV.txt",
+      "hash": "2affdf522061d87a8f248489f05acba8185e199e2be747b1202e62a3e81f64e8",
+      "title": "RemoFPV rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "remo",
+        "RemoFPV",
+        "rates"
+      ],
+      "author": "RemoFPV",
       "priority": 10000
     },
     {
